@@ -1,0 +1,29 @@
+
+body{
+    text-align: center;
+}
+
+table
+{
+ border: 1px solid black;
+ margin: 0 auto;
+ border-collapse: collapse;
+
+}
+th
+{
+    width: 200px;
+    height: 37px;
+    border: 3px solid rgb(251, 251, 251);
+    background-color: rgb(177, 174, 174);
+    border-collapse: collapse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#maincol
+{
+    font-weight: bolder;
+}
+
+
+
+
